@@ -9,7 +9,7 @@
  * Sharpe Ratio
  * Call option pricing
  
- (https://github.com/mdaplaton/MDA_portfolio/blob/main/images/MC_simualtion.png?raw=true)
+ ![](https://github.com/mdaplaton/MDA_portfolio/blob/main/images/MC_simualtion.png?raw=true)
  
 
  
