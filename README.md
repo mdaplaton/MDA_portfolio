@@ -39,4 +39,5 @@ A convolutional neural network is built with tensorflow Keras framework followin
 * Compile and fit the model 
 * Model evaluation
 
+![](https://github.com/mdaplaton/MDA_portfolio/blob/main/images/Retina%20Images.png?raw=true)
 
