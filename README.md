@@ -23,3 +23,20 @@ Data used : https://www.kaggle.com/datasets/hansukyang/temperature-history-of-10
 * Season temperature distribution for a given city
 
 ![](https://github.com/mdaplaton/MDA_portfolio/blob/main/images/Seasonal_Decompose.png?raw=true)
+
+
+#[Project 3: Diabetic retinopathy detection](https://github.com/mdaplaton/Stock-Data-fast-checks)
+
+Data used : https://www.kaggle.com/code/gpiosenka/diaetic-retinopathy-f1-score-75-6/data
+
+Deep Learning computer vision project with Diabetic Retinopathy detection as target using  the data set of the link presented above.
+A convolutional neural network is built with tensorflow Keras framework following the VGG19 network architecture with a 5 class output.
+
+* Data set loading and inspection
+* Training, validation and test split
+* Data augmentation 
+* Transfer learning and fine-tuning
+* Compile and fit the model 
+* Model evaluation
+
+
