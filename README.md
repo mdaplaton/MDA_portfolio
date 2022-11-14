@@ -54,5 +54,5 @@ A convolutional neural network is built with tensorflow Keras framework followin
 * Kalman Filter
 * Spread calc
 
-![](https://github.com/mdaplaton/MDA_portfolio/blob/main/images/Retina%20Images.png?raw=true)
+![](https://github.com/mdaplaton/MDA_portfolio/blob/main/images/PAIR_TRADING%20PLOT.png?raw=true)
 
