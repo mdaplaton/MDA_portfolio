@@ -41,3 +41,18 @@ A convolutional neural network is built with tensorflow Keras framework followin
 
 ![](https://github.com/mdaplaton/MDA_portfolio/blob/main/images/Retina%20Images.png?raw=true)
 
+
+# [Project 4: Pairs trading Inspection](https://github.com/mdaplaton/PairsTradingInspection)
+
+### Fast stock list inspection to find trading pair candidates.
+
+* Price data download
+* Data cleaning
+* Correlation
+* Cointegration
+* Augmented Dickey-Fuller test
+* Kalman Filter
+* Spread calc
+
+![](https://github.com/mdaplaton/MDA_portfolio/blob/main/images/Retina%20Images.png?raw=true)
+
